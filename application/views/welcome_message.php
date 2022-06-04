@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>selamat datang!</title>
+	<title>Coding itu tidak sulit yah!</title>
 
 	<style type="text/css">
 
